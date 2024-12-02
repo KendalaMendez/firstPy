@@ -1,2 +1,2 @@
 print("Hello World!")
-# I learned something new today!
+# I learned today
